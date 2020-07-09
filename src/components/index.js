@@ -1,0 +1,5 @@
+export { default as Assignment1 } from './assignment1/assignment1'
+export { default as Assignment2 } from './assignment2/assignment2'
+export { default as Assignment3 } from './assignment3/assignment3'
+export { default as Assignment4 } from './assignment4/assignment4'
+export { default as Assignment5 } from './assignment5/assignment5'
