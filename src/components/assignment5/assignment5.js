@@ -18,7 +18,7 @@ export default props => {
                 })}
             </div>
             <div>
-                <input type="checkbox" checked={answer} />
+                <input type="checkbox" checked={answer} readOnly/>
             </div>
             <p><input type="button" value="click" onClick={onClick} /></p>
         </Fragment>
